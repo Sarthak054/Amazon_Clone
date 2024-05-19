@@ -1,2 +1,1 @@
-# my_projects
-I am start sharing my projects on github projects related to web development.
+This is a Amazon clone which is a static page it is not responsive yet....
