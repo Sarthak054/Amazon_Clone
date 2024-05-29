@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(amazon_logo.png);
+    background-image: url(assets/amazon_logo.png);
     /* mix-blend-mode: multiply; */
     background-size: cover;
     height: 50px;
@@ -138,7 +138,7 @@ span{
 
 /* hero section */
 .hero-section{
-    background-image: url("2.jpg");
+    background-image: url("assets/2.jpg");
     background-size: cover;
     height: 400px;
     display: flex;
@@ -241,7 +241,7 @@ color: #dddddd;
 }
 
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(assets/amazon_logo.png);
     /* mix-blend-mode: multiply; */
     background-size: cover;
     height: 50px;
